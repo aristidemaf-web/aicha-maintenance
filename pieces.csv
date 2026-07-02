@@ -210,7 +210,7 @@ Relais temporisé  numerique;24V;1;O9.8
 Boitier de contrôle automatique;IFS258;1;O9.8
 Conducteur de signal ;200-250v;1;O9.8
 Relais electronique;;1;O9.8
-Relais temporisé;0,1--100H;1;O9.8
+Relais temporisé;0.1--100H;1;O9.8
 Convertisseur Isolant de sécurité;;2;O9.8
 Relais de securité;24v;1;O9.8
 Embase pour Relais;RHZ21;4;O9.8
