@@ -754,7 +754,7 @@ Chariot de guidage;RWU45-E-L;1;P5.5
 Distributeur pneumatique;5/3 voies Aventics 581;2;P5.5
 Coude; 3/8;11;M10.01
 Coude; 1/2;4;M10.01
-Coude;"2""";1;M10.01
+Coude;"2";1;M10.01
 Coude;"1""1/2";7;M10.01
 Réduction;3/8---1/4;6;M10.05
 Réduction;1/2---1/4;4;M10.05
