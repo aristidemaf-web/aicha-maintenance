@@ -202,7 +202,7 @@ Conditionneur de Signal ;8560700000;6;O9.7
 Relais temporisé ;1-45min 24/240V;1;O9.7
 Relais temporisé ;6A-220V;1;O9.7
 Relais de controle;24V-240V;1;O9.7
-Relais temporisé ;0,1s--100H  0,7A  24v-240VA;1;O9.7
+Relais temporisé ;0,1s--100H  0.7A  24v-240VA;1;O9.7
 Relais temporisé ;0,7A-240V 60mn;1;O9.7
 Relais temporisé ;0,1-100H(24-240v  50/60Hz);1;O9.7
 Module DEF;;1;O9.7
