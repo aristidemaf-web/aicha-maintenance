@@ -197,7 +197,7 @@ Dispositif d'interverrouillage;24V;2;O9.6
 Controleur de conductivité;;1;O9.6
 Bloc temporise ;10-180s 10A;11;O9.7
 Relais statique 3ph ;28A  8.5-30DC   10-30VAC;1;O9.7
-Relais Temporise;100-240v  0,05s-300H;1;O9.7
+Relais Temporise;100-240v  0.05s-300H;1;O9.7
 Conditionneur de Signal ;8560700000;6;O9.7
 Relais temporisé ;1-45min 24/240V;1;O9.7
 Relais temporisé ;6A-220V;1;O9.7
