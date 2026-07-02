@@ -124,10 +124,10 @@ Contacteur inverseur;24V-50HZ-60HZ-400V;3;O10.4
 Contacteur inverseur;48V-50/60HZ (4kW/400V);4;O10.4
 Contacteur inverseur;24VDC(4KW-400V);2;O10.4
 Contacteur inverseur;230V-50/60HZ(11KW/400V);2;O10.4
-Contacteur inverseur;24V-50/60Hz(5,5KW/400V);3;O10.4
+Contacteur inverseur;24V-50/60Hz-400V;3;O10.4
 Contacteur inverseur;24V-50/60Hz;1;O10.5
 Contacteur inverseur;24V 50/60Hz(4KV/400V);1;O10.5
-Contacteur inverseur;110V 50-60Hz(5,5KW);1;O10.5
+Contacteur inverseur;110V 50-60Hz-5.5KW;1;O10.5
 Contacteur ;220V 50/60Hz;2;O10.5
 Contacteur ;24V 50/60Hz;1;O10.5
 Contacteur ;24V 50/60Hz(37KW-400V);1;O10.5
@@ -142,18 +142,18 @@ Contacteur Auxiliaire;48V 50-60Hz;8;O10.6
 Bloc de contacts Auxiliaire;10A-690V;8;O10.6
 Bloc de contacts Auxiliaire;;;O10.6
 Contacteur ;24VDC 11KW-400V;5;O10.7
-Contacteur ;220V 50/60Hz(7,5KW-400V);5;O10.7
-Contacteur ;24V 50-60Hz(7,5-6KW);3;O10.7
+Contacteur ;220V 50/60Hz-7.5KW-400V;5;O10.7
+Contacteur ;24V 50-60Hz-7.5-6KW;3;O10.7
 Contacteur ;380-400V 50/60Hz;1;O10.7
 Contacteur ;230V 50-60Hz;2;O10.7
-Contacteur ;24V 50/60Hz(7,5KW-400V);1;O10.7
+Contacteur ;24V 50/60Hz-7.5KW-400V;1;O10.7
 Contacteur ;380-400V 50/60Hz;1;O10.7
 Contacteur ;115V 50-60Hz;1;O10.7
 Contacteur ;40V;1;O10.7
 Contacteur ;48V 50-60Hz;17;O10.8
 Bloc de contact;10A 690V;16;O10.8
-Interrupteur à poignée;;3;O9.1
-Boite bouton pendante;;3;O9.1
+Interrupteur à poignée;3;O9.1
+Boite bouton pendante;3;O9.1
 Module pour  arret d'urgence;230V;5;O9.1
 Bloc contacts lateral;10A 690V;3;O9.1
 Contact relais d'Interface;2966016;2;O9.2
