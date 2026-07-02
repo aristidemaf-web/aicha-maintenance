@@ -108,7 +108,7 @@ Disjoncteur moteur ;0 1-0 16A;3;O10.1
 Disjoncteur Mini;2A;1;O10.2
 Disjoncteur Mini;6A; ;O10.2
 Disjoncteur Mini;4A;1;O10.2
-Disjoncteur Moteur Magneto-Thermique;0,1-0,16A;2;O10.2
+Disjoncteur Moteur Magneto-Thermique;0 1-0 16A;2;O10.2
 Commutateur;20A;3;O10.2
 Commutateur;10A;2;O10.2
 Inverseur de source;63A;1;O10.2
