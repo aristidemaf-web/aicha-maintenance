@@ -120,7 +120,7 @@ Inter Sectionneur Arret d'urgence;20A;1;O10.3
 Inter Sectionneur;125A;2;O10.3
 Sectionneur Porte-Fusible;125A;1;O10.3
 Inter de Position;3A;1;O10.3
-Contacteur inverseur;24V-50HZ-60HZ(5,5KW-400V);3;O10.4
+Contacteur inverseur;24V-50HZ-60HZ-400V;3;O10.4
 Contacteur inverseur;48V-50/60HZ (4kW/400V);4;O10.4
 Contacteur inverseur;24VDC(4KW-400V);2;O10.4
 Contacteur inverseur;230V-50/60HZ(11KW/400V);2;O10.4
